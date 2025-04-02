@@ -7,14 +7,6 @@
         "hwid": "3d826b2c61d53388a74b84424c1187c8a1bdb6cdf9376a20a85d6dd7ec063d88",
         "key": "6JHIUHKG546KJG345JH4KG"
     },
-    "putin": {
-        "uid": 2,
-        "password": "alexlox",
-        "hwid": "null",
-        "havesub": "yes",
-        "sub_end": "no",
-        "key": "ZV7JQ2NDY64XW8LFKP39"
-    },
     "dev": {
         "uid": 1,
         "password": "qwerty123",
@@ -31,6 +23,14 @@
         "hwid": "9f3e48131a340af9ef99cebcba7441be3e469c5c575ca320b295a54c4a5ca8bf",
         "key": "PQ39XW8LFKZV7JQ2NDY6"
     },
+    "putin": {
+        "uid": 2,
+        "password": "alexlox",
+        "havesub": "yes",
+        "sub_end": "no",
+        "hwid": "d1b3f5537ce1d3f898ad121bfb41d0fe011ae31c6b5341895855357972028719",
+        "key": "ZV7JQ2NDY64XW8LFKP39"
+    },
     "1234": {
         "uid": 7,
         "password": "1234",
@@ -45,11 +45,6 @@
         "sub_end": "2025-12-26",
         "hwid": "1fcf45677f62",
         "key": "NDY64XW8LFKZV7JQP239"
-    },
-    "ц": {
-        "uid": 3,
-        "password": "цц",
-        "havesub": "no"
     },
     "b1terFUN": {
         "uid": 82,
@@ -73,5 +68,10 @@
         "sub_end": "no",
         "hwid": "null",
         "key": "V7JQP2NDY6439XW8LFKZ"
+    },
+    "С\u2020": {
+        "uid": 3,
+        "password": "С\u2020С\u2020",
+        "havesub": "no"
     }
 }
