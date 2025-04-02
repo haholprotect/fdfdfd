@@ -1,15 +1,16 @@
 {
     "123": {
-        "uid": 4,
+        "uid": 1,
         "password": "123",
         "havesub": "yes",
         "sub_end": "2025-04-16",
         "hwid": "3d826b2c61d53388a74b84424c1187c8a1bdb6cdf9376a20a85d6dd7ec063d88",
         "key": "6JHIUHKG546KJG345JH4KG"
     },
-    "DEFA": {
-        "uid": 83,
-        "password": "gooblyck777",
+    "putin": {
+        "uid": 2,
+        "password": "alexlox",
+        "hwid": "null",
         "havesub": "yes",
         "sub_end": "no",
         "key": "ZV7JQ2NDY64XW8LFKP39"
